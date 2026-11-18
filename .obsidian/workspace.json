@@ -199,6 +199,12 @@
   },
   "active": "932b00064eaa35ea",
   "lastOpenFiles": [
+    "4-SYSTEM/Skills/Transclusion-rootext-into-commentaries/scripts/03_blank_before_sachad.py",
+    "4-SYSTEM/Skills/Transclusion-rootext-into-commentaries/scripts/02_remove_blank_before_transclusions.py",
+    "4-SYSTEM/Skills/Transclusion-rootext-into-commentaries/scripts/01_transclude_verses.py",
+    "4-SYSTEM/Skills/Transclusion-rootext-into-commentaries/SKILL.md",
+    "4-SYSTEM/Skills/Transclusion-rootext-into-commentaries/scripts",
+    "4-SYSTEM/Skills/Transclusion-rootext-into-commentaries",
     "1-SOURCES/Commentaries/ཕར་ཕྱིན་ལུང་གི་སྙེ་མ།.md",
     "conflict-files-obsidian-git.md",
     "1-SOURCES/Commentaries/རྣམ་བཤད་སྙིང་རྒྱན།.md",
@@ -223,17 +229,11 @@
     "4-SYSTEM/Skills/commentary-segment/SKILL.md",
     "4-SYSTEM/Skills/commentary-segment/scripts",
     "4-SYSTEM/Skills/commentary-segment",
-    "4-SYSTEM/Skills/commentary-resegment/scripts/resegment.py",
-    "4-SYSTEM/Skills/commentary-resegment/scripts/qc_check.py",
-    "4-SYSTEM/Skills/commentary-resegment/scripts/list_models.py",
-    "4-SYSTEM/Skills/commentary-resegment/scripts/claude_reseg_shim.py",
     "4-SYSTEM/Skills/commentary-resegment/SKILL.md",
     "4-SYSTEM/Skills/commentary-preclean/SKILL.md",
     "4-SYSTEM/Skills/seg-toc-lib/prompts/pass5-anchors.md",
     "4-SYSTEM/Skills/seg-toc-lib/prompts/pass4-qc-repair.md",
     "4-SYSTEM/Skills/seg-toc-lib/prompts/pass3-tree.md",
-    "4-SYSTEM/Skills/seg-toc-lib/prompts/pass2-enumerations.md",
-    "4-SYSTEM/Skills/seg-toc-lib/prompts/pass1-candidates-root.md",
-    "4-SYSTEM/Skills/seg-toc-lib/SKILL.md"
+    "4-SYSTEM/Skills/seg-toc-lib/prompts/pass2-enumerations.md"
   ]
 }
