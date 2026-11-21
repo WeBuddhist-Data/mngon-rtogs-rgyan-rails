@@ -199,6 +199,9 @@
   },
   "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "0-INBOX/temp/TOC-lung-gi-snye-ma/ingest/review-low-confidence.md",
+    "0-INBOX/temp/tagged-ཕར་ཕྱིན་ལུང་གི་སྙེ་མ།.md",
+    "0-INBOX/temp/TOC-lung-gi-snye-ma/ingest/lung-gi-snye-ma.annotation.json",
     "0-INBOX/temp/TOC-lung-gi-snye-ma/ingest/oldnew-map.json",
     "0-INBOX/temp/TOC-lung-gi-snye-ma/ingest/alignment.json",
     "0-INBOX/temp/TOC-lung-gi-snye-ma/ingest",
@@ -227,13 +230,10 @@
     "0-INBOX/temp/toc-candidates-slim-lung-gi-snye-ma.md",
     "0-INBOX/temp/toc-candidates-lung-gi-snye-ma.md",
     "4-SYSTEM/Skills/commentary-segment/scripts/units.py",
-    "4-SYSTEM/Skills/commentary-segment/scripts/stage2_refine.py",
-    "4-SYSTEM/Skills/commentary-segment/scripts/segment_commentary.py",
     "4-SYSTEM/Skills/commentary-segment/SKILL.md",
     "4-SYSTEM/Skills/commentary-resegment/SKILL.md",
     "4-SYSTEM/Skills/commentary-preclean/SKILL.md",
     "4-SYSTEM/Skills/seg-toc-lib/prompts/pass5-anchors.md",
-    "4-SYSTEM/Skills/seg-toc-lib/prompts/pass4-qc-repair.md",
-    "4-SYSTEM/Skills/seg-toc-lib/prompts/pass3-tree.md"
+    "4-SYSTEM/Skills/seg-toc-lib/prompts/pass4-qc-repair.md"
   ]
 }
