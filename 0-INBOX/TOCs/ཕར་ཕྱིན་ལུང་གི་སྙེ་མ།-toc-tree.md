@@ -9,7 +9,7 @@ entries: 2803
 max_depth: 26
 pointers: none
 status: draft
-qc_reports: [ཕར་ཕྱིན་ལུང་གི་སྙེ་མ།-toc-qc.md]
+qc_reports: [ཕར་ཕྱིན་ལུང་གི་སྙེ་མ།-toc-qc.md, ཕར་ཕྱིན་ལུང་གི་སྙེ་མ།-toc-qc-source.md]
 ---
 
 ## དཀར་ཆག / Table of Contents
